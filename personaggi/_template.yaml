@@ -1,0 +1,16 @@
+id: marco
+nome_reale: Marco
+nome_guerriero: Kael del Naviglio
+fantasquadra: Saiyan del Naviglio
+aura: gold
+consenso: true
+foto:
+  - foto/frontale.jpg
+  - foto/tre_quarti.jpg
+master:
+  base: master.png
+  arrabbiato: master_ss.png
+  ko: master_ko.png
+note: >
+  Volto fotorealistico. Non stilizzare in manga.
+  Master frontale, occhi visibili, niente casco.

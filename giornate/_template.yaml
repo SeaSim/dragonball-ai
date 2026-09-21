@@ -1,0 +1,35 @@
+# Copia questa cartella in giornate/g04 (o il numero che è).
+# Poi: python tools/assemble.py giornate/g04 --check
+
+title: "Giornata N"
+output: recap.mp4
+width: 1080
+height: 1920
+fps: 30
+voice: voce.mp3
+# music: musica.mp3
+music_volume: 0.16
+# sugli still puoi mettere ken_burns: true (zoom lento). Default: spento.
+subtitles: sottotitoli.srt
+clips:
+  - src: stills/01_hook.png
+    duration: 5.0
+    punchline: "GIORNATA N"
+  - src: stills/02_gol.png
+    duration: 6.0
+    punchline: "GOL"
+  - src: stills/03_flop.png
+    duration: 5.5
+    punchline: "KO"
+  - src: stills/04_rimonta.png
+    duration: 6.0
+    punchline: "RIMONTA"
+  - src: stills/05_para.png
+    duration: 5.0
+    punchline: "PARA"
+  - src: stills/06_classifica.png
+    duration: 6.0
+    punchline: "POWER LEVEL"
+  - src: stills/07_chiusura.png
+    duration: 5.5
+    punchline: ""

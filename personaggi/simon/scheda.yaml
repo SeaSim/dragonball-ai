@@ -1,0 +1,17 @@
+id: simon
+nome_reale: Simon
+nome_guerriero: Simon del Naviglio
+fantasquadra: da assegnare
+aura: gold
+consenso: true
+foto:
+  - foto/04_ricci_profilo.jpg
+  - foto/05_ricci_frontale.jpg
+  - foto/01_frontale.jpg
+master:
+  base: master.png
+  arrabbiato: master_ss.png
+  colpo: master_colpo.png
+note: >
+  Volto fotorealistico (barba, occhi scuri, capelli ricci scuri).
+  Non stilizzare in manga. Guerriero originale, non un personaggio ufficiale.

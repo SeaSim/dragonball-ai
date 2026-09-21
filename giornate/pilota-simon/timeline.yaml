@@ -1,0 +1,27 @@
+title: "Pilota — Simon"
+output: recap.mp4
+width: 1080
+height: 1920
+fps: 30
+voice: voce.mp3
+music_volume: 0.16
+subtitles: sottotitoli.srt
+clips:
+  - src: clips/01_hook.mp4
+    duration: 8.0
+    punchline: "GIORNATA PILOTA"
+  - src: clips/02_gol.mp4
+    duration: 9.0
+    punchline: "GOL"
+  - src: stills/03_ko.png
+    duration: 8.0
+    punchline: "KO"
+  - src: clips/04_rimonta.mp4
+    duration: 10.0
+    punchline: "RIMONTA"
+  - src: stills/05_power.png
+    duration: 10.0
+    punchline: "POWER LEVEL"
+  - src: stills/06_chiusura.png
+    duration: 10.0
+    punchline: "PROSSIMA"

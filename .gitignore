@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# output e lavoro locale
+giornate/**/recap.mp4
+giornate/**/_work/
+giornate/**/recap_*
+giornate/**/stills/
+giornate/**/clips/
+giornate/**/voce.mp3
+giornate/**/voce_*.mp3
+giornate/**/musica.mp3
+
+.env
+
+# foto vere, master e clip generate (volti)
+personaggi/*/foto/
+personaggi/*/master*.png
+personaggi/*/master*.jpg
+personaggi/*/anim/

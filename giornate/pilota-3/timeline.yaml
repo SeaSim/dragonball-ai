@@ -1,0 +1,42 @@
+title: "Il tiranno delle olive"
+output: recap.mp4
+width: 1080
+height: 1920
+fps: 30
+voice: voce.mp3
+music: musica.mp3
+music_volume: 0.50
+voice_volume: 1.2
+music_fit: true
+subtitles: sottotitoli.srt
+clips:
+  - src: clips/01_carmelo_sbarco.mp4
+    duration: 5.875
+    punchline: "SBARCO"
+  - src: clips/02_carmelo_tiranno.mp4
+    duration: 5.875
+    punchline: "TIRANNO"
+  - src: clips/03_carmelo_decreto.mp4
+    duration: 5.875
+    punchline: "OTTOBRE"
+  - src: clips/04_simon_resiste.mp4
+    duration: 5.875
+    punchline: ""
+  - src: clips/05_tiziano_resiste.mp4
+    duration: 5.875
+    punchline: "RESISTONO"
+  - src: clips/06_alessandro_namek.mp4
+    duration: 5.875
+    punchline: "NAMECCIANO"
+  - src: clips/07_alessandro_colpo.mp4
+    duration: 5.875
+    punchline: ""
+  - src: clips/08_alessandro_ss.mp4
+    duration: 5.875
+    punchline: ""
+  - src: stills/titolo.png
+    duration: 7.0
+    title_card: true
+    punchline: |-
+      IL TIRANNO
+      DELLE OLIVE
